@@ -11,7 +11,6 @@ Determines if a given number is odd or even and return a result of a given numbe
 ```
 const isoddmaster = require("isoddmaster");
 console.log(isoddmaster(10));
-
 ```
 
 ## Options
