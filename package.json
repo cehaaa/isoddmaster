@@ -1,0 +1,16 @@
+{
+  "name": "isoddmaster",
+  "version": "1.0.0",
+  "description": "Return odd or even to a given number",
+  "main": "app.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {    
+    "test": "jest"
+  },
+  "repository": "https://github.com/veeloo/isoddmaster",
+  "author": "Christian Gouw",
+  "license": "ISC"
+}
